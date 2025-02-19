@@ -2,4 +2,3 @@ torch
 torchvision
 codecarbon
 ipykernel
-plotly
