@@ -1,0 +1,8 @@
+.vscode
+__py*
+.vscode
+.venv
+test*
+data/
+*.csv
+models/
